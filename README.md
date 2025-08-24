@@ -60,7 +60,7 @@ Follow these steps to get the project up and running on your local machine.
 
 1.  Clone this repository to your local machine:
     ```sh
-    git clone [https://github.com/PedroDutraSouza/Login-DB-local.git](https://github.com/PedroDutraSouza/Login-DB-local.git)
+    git clone https://github.com/PedroDutraSouza/Login-DB-local.git
     ```
 2.  Open the solution file (`.sln`) in **Visual Studio**.
 3.  Ensure the connection string in the C# code correctly points to your local database. The default should work with a standard XAMPP setup:
