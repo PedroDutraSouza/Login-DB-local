@@ -1,4 +1,4 @@
-#Simple WinForms Login with Local MySQL Database
+# Simple WinForms Login with Local MySQL Database
 
 This repository contains a straightforward desktop application demonstrating a user login system. The project is built with C# using Windows Forms and connects to a local MySQL database managed via XAMPP.
 
@@ -13,7 +13,7 @@ It serves as a clear, practical example of how to handle user authentication in 
 
     Status Feedback: Provides clear messages for successful or failed login attempts.
 
-#Technologies Used
+# Technologies Used
 
     C#: The core programming language for the application logic.
 
@@ -25,7 +25,7 @@ It serves as a clear, practical example of how to handle user authentication in 
 
     MySQL Connector/NET: The ADO.NET driver for connecting the C# application to the MySQL database.
 
-#Prerequisites
+# Prerequisites
 
 Before you begin, ensure you have the following installed:
 
@@ -35,7 +35,7 @@ Before you begin, ensure you have the following installed:
 
     MySQL Connector/NET: To enable the connection between the application and the database.
 
-#Getting Started
+# Getting Started
 
 Follow these steps to get the project up and running on your local machine.
 1. Set Up the Database
@@ -80,6 +80,6 @@ Use the following credentials to log in:
 
     Password: admin123
 
-#License
+# License
 
 This project is open-source and available to everyone.
